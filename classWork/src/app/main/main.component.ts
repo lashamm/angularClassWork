@@ -9,6 +9,7 @@ import { FormsModule } from '@angular/forms';
   styleUrl: './main.component.scss'
 })
 export class MainComponent {
+
   studentInfo :any = []
   studentAddress :any =[]
 
